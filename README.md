@@ -4,7 +4,7 @@ As part of markdown format we have already seen few things in the class. Now we 
 
 My name is **Venkatesh_Uppala**. My Friends call me as _Venki_.
 
-I'm a Huge fan of **MARVEL_SERIES** So Here i'll Menction My Three Favourite **Super_Hero's**.
+I'm a Huge Fan of **MARVEL_SERIES** So Here i'll Menction My Three Favourite **Super_Hero's**.
 
 ![Chris Evans as CAPTAIN AMERICA](captain-america.jpg)
 ![Chris Hemsworth as THOR](thor.jpg)
